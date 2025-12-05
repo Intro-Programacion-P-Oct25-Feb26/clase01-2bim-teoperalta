@@ -9,7 +9,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 /**
- *
+ *6
  * @author reroes
  */
 public class Ejemplo06 {

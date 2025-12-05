@@ -15,13 +15,14 @@ public class Ejemplo001 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        int valor = 0;
         String cadenaFinal = "";
         for (int i = 1; i <= 10; i++) {
             
             cadenaFinal = String.format("%s%d", 
                     cadenaFinal,i);
         }
-        
+       // valor = 10;
         for (int i = 1; i < 11; i++) {
             cadenaFinal = String.format("%s%d", 
                     cadenaFinal,i);
